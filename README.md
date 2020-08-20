@@ -9,4 +9,4 @@
 *These files are only a reference, and not guaranteed to work. Please follow this guide: https://dortania.github.io/OpenCore-Install-Guide/*
 
 # Below are some pictures of my working Hackintosh
-<img src="<img src="https://raw.githubusercontent.com/ssharker21/hackintosh/master/lockscreen.png">" height="650" width="650">
+<img src="<img src="https://raw.githubusercontent.com/ssharker21/hackintosh/master/lockscreen.png">
