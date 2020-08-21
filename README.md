@@ -10,3 +10,4 @@
 
 # Below are some pictures of my working Hackintosh
 <img src="https://raw.githubusercontent.com/ssharker21/hackintosh/master/lockscreen.png">
+<img src="https://raw.githubusercontent.com/ssharker21/hackintosh/master/images/home%20screen.png">
