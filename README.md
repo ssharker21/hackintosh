@@ -1,6 +1,6 @@
 # My Hackintosh Build
 
-Update Jan 14 2021: I updated Opencore to 0.6.5 and MacOS 10.15.6 (Catalina) to MacOS 11.1 (Big Sur). I have the old version as a seperate release.
+### **Update Jan 14 2021: I updated Opencore to 0.6.5 and MacOS 10.15.6 (Catalina) to MacOS 11.1 (Big Sur). I have the old version as a seperate release.**
 
 ~~**I installed macOS Catalina 10.15.6. I used the OpenCore Bootloader.**~~
 
