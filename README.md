@@ -11,6 +11,7 @@
 # Below are some pictures of my working Hackintosh:
 
 # Pictures of Big Sur (NEW)
+<img src="https://raw.githubusercontent.com/ssharker21/hackintosh/master/images/Screen%20Shot%202021-01-14%20at%205.20.23%20PM.png">
 <img src="https://raw.githubusercontent.com/ssharker21/hackintosh/master/images/Screen%20Shot%202021-01-14%20at%204.59.25%20PM.png">
 <img src="https://raw.githubusercontent.com/ssharker21/hackintosh/master/images/Screen%20Shot%202021-01-14%20at%205.04.01%20PM.png">
 
