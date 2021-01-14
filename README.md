@@ -8,9 +8,11 @@ Update Jan 14 2021: I updated Opencore to 0.6.5 and MacOS 10.15.6 (Catalina) to 
 
 *These files are only a reference, and not guaranteed to work. Please follow this guide: https://dortania.github.io/OpenCore-Install-Guide/*
 
-# Below are some pictures of my working Hackintosh
+# Below are some pictures of my working Hackintosh:
 
 # Pictures of Big Sur (NEW)
+<img src="https://raw.githubusercontent.com/ssharker21/hackintosh/master/images/Screen%20Shot%202021-01-14%20at%204.59.25%20PM.png">
+<img src="https://raw.githubusercontent.com/ssharker21/hackintosh/master/images/Screen%20Shot%202021-01-14%20at%205.04.01%20PM.png">
 
 # Pictures of Catalina (OLD)
 <img src="https://raw.githubusercontent.com/ssharker21/hackintosh/master/images/lockscreen.png">
